@@ -1,5 +1,5 @@
 #include <stdio.h>
-//int main (){
+int main (){
         char ch;
         printf("\nEnter a lower cased alphabet (a - z):");
         scanf("%c", &ch);
