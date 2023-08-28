@@ -1,5 +1,5 @@
 #include <stdio.h>
-//void main()
+void main()
 {
     int basic;
     printf("\n Please enter your basic: ");
