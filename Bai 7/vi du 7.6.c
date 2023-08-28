@@ -1,5 +1,5 @@
 #include <stdio.h>
-//int main (){
+int main (){
     int x;
     x = 0;
 printf("Enter Choice (1-3): ");
