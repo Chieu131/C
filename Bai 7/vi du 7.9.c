@@ -1,5 +1,5 @@
 #include <stdio.h>
-//int main()
+int main()
 {
     int productcode;
     float orderamount, rate = 0.0;
